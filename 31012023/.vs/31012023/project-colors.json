@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "787a10a2-6def-49f4-90f6-214e6b7d06d6": {
+      "ProjectGuid": "787a10a2-6def-49f4-90f6-214e6b7d06d6",
+      "DisplayName": "Tasks",
+      "ColorIndex": 0
+    },
+    "8ef7f8ad-b5c2-4a1f-b2f1-080c16c62a03": {
+      "ProjectGuid": "8ef7f8ad-b5c2-4a1f-b2f1-080c16c62a03",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
